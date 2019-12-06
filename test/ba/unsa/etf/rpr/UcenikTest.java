@@ -187,4 +187,6 @@ class UcenikTest {
         cestitka = ms2.rodjendan(datum2);
         assertEquals("", cestitka);
     }
+
+
 }

@@ -244,4 +244,9 @@ class SkolaTest {
 
         assertEquals(ocekivani, rezultat);
     }
+
+
+
+
 }
+

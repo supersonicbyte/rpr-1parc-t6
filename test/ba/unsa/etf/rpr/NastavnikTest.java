@@ -44,3 +44,4 @@ class NastavnikTest {
         assertEquals("", cestitka);
     }
 }
+
